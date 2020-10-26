@@ -7,7 +7,7 @@ a {
 .main {
     min-height: 100vh;
     background-image: url(../images/main.jpg);
-    background-position: left bottom;
+    /*background-position: left bottom;*/
     background-size: contain;
 }
 
@@ -92,8 +92,7 @@ a {
 
 /* logo */
 .logo img {
-    float: right;
-    margin-top: 32vh;
-    margin-right: 2vw;
-    max-width: 200px;
+    margin-top: 5vh;
+    margin-left: 2vw;
+    max-width: 220px;
 }
